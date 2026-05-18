@@ -1,0 +1,4 @@
+# Install git hooks to automatically build
+echo 'jekyll build && cp _site/* /var/www/rosuav.com/' >.git/hooks/post-commit
+echo 'jekyll build && cp _site/* /var/www/rosuav.com/' >.git/hooks/post-merge
+chmod +x .git/hooks/post-commit .git/hooks/post-merge
