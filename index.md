@@ -4,7 +4,7 @@ title: All the Links
 ---
 
 <style>
-h2 {margin: auto; font-weight: 500;}
+h2 {margin: auto; font-weight: 500; width: fit-content;}
 </style>
 
 Hi, I'm the Rosuav, and this is some of the stuff that I've made! I'm known by the name Rosuav in many places, most of them somewhat nerdy.
@@ -12,7 +12,8 @@ Hi, I'm the Rosuav, and this is some of the stuff that I've made! I'm known by t
 ## ![Twitch](https://static-cdn.jtvnw.net/emoticons/v2/112290/default/light/1.0) Twitch
 You can find me [streaming on Twitch](https://twitch.tv/rosuav), where my primary content is software development, but I also play games at times. Check below the broadcast screen for my schedule, which can be added to your calendar so you don't miss a stream!
 
-## ![Mustard Mine](https://mustardmine.com/static/MustardMinePanel.png)<br>The Mustard Mine
+## ![Mustard Mine](https://mustardmine.com/static/MustardMinePanel.png)
+## The Mustard Mine
 
 My flagship service is [The Mustard Mine](https://mustardmine.com/), a Twitch bot that serves a number of channels. It is, and will always be, free to use, and has demo pages if you'd like to explore it at no obligation.
 
