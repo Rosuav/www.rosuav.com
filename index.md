@@ -3,13 +3,13 @@ layout: default
 title: All the Links
 ---
 
-Astoroth's ThreshClock https://www.kepl.com.au/esstu/extras/extras.html
+Astoroth's ThreshClock: <https://www.kepl.com.au/esstu/extras/extras.html>
 
-Web-based time converter: https://www.kepl.com.au/esstu/timeconvert.php
+Web-based time converter: <https://www.kepl.com.au/esstu/timeconvert.php>
 
-Threshold RPG FAQ: https://rosuav.com/1/?search=faq
+Threshold RPG FAQ: <https://rosuav.com/1/?search=faq>
 
-Download Gypsum: https://github.com/Rosuav/Gypsum
+Download Gypsum: <https://github.com/Rosuav/Gypsum>
 
 Portable Gypsum: [Grab this zip file](portable-gypsum.zip), extract it somewhere (eg a thumb drive), and it should run without external help.
 </pre>
