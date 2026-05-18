@@ -1,4 +1,7 @@
-# Stuff by Rosuav
+---
+layout: default
+title: All the Links
+---
 
 Astoroth's ThreshClock https://www.kepl.com.au/esstu/extras/extras.html
 

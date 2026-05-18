@@ -4,5 +4,3 @@ description: >-
   Stuff by Rosuav. Includes links to various interesting things, and has
   nerdy and entertaining randomness.
 theme: minima
-plugins:
-  - jekyll-optional-front-matter
